@@ -44,7 +44,8 @@ This is a Python-based image resizer application that allows users to resize ima
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/46cdf98b-e595-48db-b551-0c3234a87c69)
-![image](https://github.com/user-attachments/assets/68609c1a-c5be-4925-b45f-ea226d3ba9d3)
+![image](https://github.com/user-attachments/assets/ef2d1679-b98c-41b7-9b71-ad3dfeee9ebf)
+
 ![image](https://github.com/user-attachments/assets/6a6b30ce-84f4-4191-a2c3-99e451a37a38)
 
 
