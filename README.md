@@ -12,6 +12,10 @@ This is a Python-based image resizer application that allows users to resize ima
 - **Custom Dimensions**: Input custom width and height values for resizing.
 - **Save Resized Image**: Saves the resized image in your desired location.
 
+- ## Live Demo
+
+- [live Demo](https://resizer.streamlit.app/)
+
 ## Requirements
 
 - Python 3.x
